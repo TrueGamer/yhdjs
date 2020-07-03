@@ -1,0 +1,20 @@
+
+mohuamogu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogubaobaotou
+  rotate: false
+  xy: 2, 39
+  size: 180, 146
+  orig: 180, 146
+  offset: 0, 0
+  index: -1
+mogubaobaoyanjing
+  rotate: false
+  xy: 2, 2
+  size: 126, 35
+  orig: 126, 35
+  offset: 0, 0
+  index: -1

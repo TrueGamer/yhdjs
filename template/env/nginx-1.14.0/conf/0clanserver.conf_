@@ -1,0 +1,40 @@
+#
+# The default server
+#
+
+server {
+	listen       443 ssl;
+        server_name  nnxzcenter.0clan.com;
+        #root         /usr/share/nginx/html;
+
+	ssl on;
+        ssl_certificate /etc/nginx/ssl/0clan.com.pem;
+        ssl_certificate_key /etc/nginx/ssl/0clan.com.key;
+        keepalive_timeout   70;
+        #server_name www.yourdomain.com;
+        #禁止在header中出现服务器版本，防止黑客利用版本漏洞攻击
+        server_tokens off;
+	ssl_session_cache shared:SLL:50m;
+	ssl_session_timeout 5m;
+	ssl_protocols TLSv1 TLSv1.1 TLSv1.2 SSLv2 SSLv3;
+	ssl_ciphers ALL:!ADH:!EXPORT56:RC4+RSA:+HIGH:+MEDIUM:+LOW:+SSLv2:+EXP;
+	ssl_prefer_server_ciphers on;
+        #如果是全站 HTTPS 并且不考虑 HTTP 的话，可以加入 HSTS 告诉你的浏览器本网站全站加密，并且强制用 HTTPS 访问
+        #add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
+        # ......
+        fastcgi_param   HTTPS               on;
+        fastcgi_param   HTTP_SCHEME         https;
+	
+        location /api {
+           proxy_pass http://127.0.0.1:19999;
+           #proxy_set_header HOST "xiaozhen.95game.xyz";
+           #proxy_set_header X-Real-IP $remote_addr;
+           #proxy_set_header X-Forwarded-For $remote_addr;
+
+           proxy_http_version 1.1;
+           proxy_set_header Upgrade $http_upgrade;
+           proxy_set_header Connection "Upgrade";
+        }
+
+}
+

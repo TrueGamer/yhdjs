@@ -1,0 +1,27 @@
+
+pangzimogu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 153, 116
+  orig: 153, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 157, 28
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 302, 74
+  size: 141, 44
+  orig: 141, 44
+  offset: 0, 0
+  index: -1

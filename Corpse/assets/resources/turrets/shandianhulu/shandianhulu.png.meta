@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3bdcfbda-f420-4f28-bfc4-5a132fe322d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "shandianhulu": {
+      "ver": "1.0.4",
+      "uuid": "f9a81248-dcb8-4012-b6d9-61a1d7d07966",
+      "rawTextureUuid": "3bdcfbda-f420-4f28-bfc4-5a132fe322d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": 4.5,
+      "trimX": 36,
+      "trimY": 6,
+      "width": 962,
+      "height": 491,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

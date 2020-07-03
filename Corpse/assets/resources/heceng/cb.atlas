@@ -1,0 +1,27 @@
+
+cb.png
+size: 242,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 13
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 139, 49
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+cb3
+  rotate: false
+  xy: 139, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

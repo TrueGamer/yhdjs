@@ -1,0 +1,20 @@
+
+xiaohulu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao
+  rotate: true
+  xy: 2, 2
+  size: 119, 154
+  orig: 119, 154
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 158, 95
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1

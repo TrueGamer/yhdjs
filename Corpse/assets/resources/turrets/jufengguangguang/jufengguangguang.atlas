@@ -1,0 +1,55 @@
+
+jufengguangguang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 2, 131
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 225, 195
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 2, 2
+  size: 127, 66
+  orig: 127, 66
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 138, 14
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: true
+  xy: 70, 4
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: false
+  xy: 130, 174
+  size: 93, 67
+  orig: 93, 67
+  offset: 0, 0
+  index: -1
+yezi5
+  rotate: true
+  xy: 138, 79
+  size: 93, 67
+  orig: 93, 67
+  offset: 0, 0
+  index: -1

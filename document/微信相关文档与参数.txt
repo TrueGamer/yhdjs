@@ -1,0 +1,9 @@
+微信相关资料：
+1、微信登陆相关文档及参数
+文档链接：https://developers.weixin.qq.com/doc/oplatform/Downloads/Android_Resource.html
+AppID：wxecb5a8e710205705
+AppSecret 32b31f2ff437b3c2259bd80b7039538d
+2：提现相关
+企业付款到零钱功能用来提现，相关文档如下：
+https://pay.weixin.qq.com/index.php/public/product/detail?pid=5&productType=0
+商户号：1480323992

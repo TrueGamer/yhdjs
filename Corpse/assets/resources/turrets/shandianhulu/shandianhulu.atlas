@@ -1,0 +1,76 @@
+
+shandianhulu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 650, 101
+  size: 178, 148
+  orig: 178, 148
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 650, 61
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 866, 382
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0001
+  rotate: false
+  xy: 2, 251
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0002
+  rotate: false
+  xy: 2, 2
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0003
+  rotate: false
+  xy: 218, 251
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0004
+  rotate: false
+  xy: 218, 2
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0005
+  rotate: false
+  xy: 434, 251
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0006
+  rotate: false
+  xy: 434, 2
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1
+vx_dianhulu_0007
+  rotate: false
+  xy: 650, 251
+  size: 214, 247
+  orig: 214, 247
+  offset: 0, 0
+  index: -1

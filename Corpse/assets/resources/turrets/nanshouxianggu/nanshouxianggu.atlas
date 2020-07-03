@@ -1,0 +1,27 @@
+
+nanshouxianggu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogubaobaofashekou
+  rotate: false
+  xy: 188, 97
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+mogubaobaotou
+  rotate: false
+  xy: 2, 23
+  size: 184, 96
+  orig: 184, 96
+  offset: 0, 0
+  index: -1
+mogubaobaoyanjing
+  rotate: false
+  xy: 2, 2
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1

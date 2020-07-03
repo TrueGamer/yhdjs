@@ -1,0 +1,55 @@
+
+huobaolajiao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyan
+  rotate: false
+  xy: 312, 62
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: true
+  xy: 186, 8
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 312, 96
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 16
+  size: 107, 182
+  orig: 107, 182
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: false
+  xy: 312, 54
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 2, 2
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 377, 114
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1

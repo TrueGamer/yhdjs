@@ -1,0 +1,76 @@
+
+juxingjiangshi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 138, 138
+  size: 148, 132
+  orig: 148, 132
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 413, 518
+  size: 173, 157
+  orig: 173, 157
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 490
+  size: 409, 434
+  orig: 409, 434
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 878, 776
+  size: 120, 148
+  orig: 120, 148
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 2, 272
+  size: 381, 216
+  orig: 381, 216
+  offset: 0, 0
+  index: -1
+shoubi3
+  rotate: false
+  xy: 606, 686
+  size: 136, 238
+  orig: 136, 238
+  offset: 0, 0
+  index: -1
+shoubi4
+  rotate: false
+  xy: 2, 2
+  size: 134, 268
+  orig: 134, 268
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 413, 677
+  size: 191, 247
+  orig: 191, 247
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 744, 779
+  size: 132, 145
+  orig: 132, 145
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 138, 11
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1

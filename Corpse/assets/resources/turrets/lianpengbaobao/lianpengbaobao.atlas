@@ -1,0 +1,27 @@
+
+lianpengbaobao.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 2, 36
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 2
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 130, 105
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1

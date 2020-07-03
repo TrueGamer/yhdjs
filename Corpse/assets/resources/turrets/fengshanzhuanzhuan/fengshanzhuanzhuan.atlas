@@ -1,0 +1,41 @@
+
+fengshanzhuanzhuan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 354, 6
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 2
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 2, 25
+  size: 127, 66
+  orig: 127, 66
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 258, 28
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 131, 25
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1

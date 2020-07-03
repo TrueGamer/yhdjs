@@ -1,0 +1,54 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 2436,
+  "design-resolution-width": 1126,
+  "excluded-modules": [
+    "TiledMap",
+    "DragonBones",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Physics"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": false,
+  "fit-width": true,
+  "group-list": [
+    "default",
+    "bullet",
+    "monster"
+  ],
+  "last-module-event-record-time": 1592904225619,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "c6083e5d-3e9a-48fd-ab1a-00e94797c8c5",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false
+}

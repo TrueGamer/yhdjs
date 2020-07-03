@@ -1,0 +1,94 @@
+{
+"skeleton": { "hash": "kYmDicGNO7gd9Mnu2MYjb020WwQ", "spine": "3.6.53", "width": 404, "height": 400, "images": "./effimg/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "01", "parent": "root" },
+	{ "name": "cb2", "parent": "root", "scaleX": 2, "scaleY": 2 },
+	{ "name": "cb3", "parent": "root", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "cb2", "bone": "cb2", "color": "ffffff00", "attachment": "03" },
+	{ "name": "cb3", "bone": "cb3", "color": "ffffff00", "attachment": "cb3" },
+	{ "name": "01", "bone": "01", "color": "ffffff00", "attachment": "01" }
+],
+"skins": {
+	"default": {
+		"01": {
+			"01": { "x": -1.99, "y": -0.1, "width": 135, "height": 136 }
+		},
+		"cb2": {
+			"03": { "scaleX": 2, "scaleY": 2, "width": 101, "height": 100 }
+		},
+		"cb3": {
+			"cb3": { "scaleX": 2, "scaleY": 2, "width": 45, "height": 45 }
+		}
+	}
+},
+"animations": {
+	"cb": {
+		"slots": {
+			"01": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2333, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"cb2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffc7" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"cb3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffc7" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"cb3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"cb2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 },
+					{ "time": 0.1, "x": 0.75, "y": 0.75 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"01": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 2.5, "y": 2.5 },
+					{ "time": 0.5, "x": 3, "y": 3 }
+				]
+			}
+		}
+	}
+}
+}

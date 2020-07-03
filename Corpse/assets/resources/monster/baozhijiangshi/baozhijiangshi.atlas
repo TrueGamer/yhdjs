@@ -1,0 +1,104 @@
+
+baozhijiangshi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 311, 16
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 385, 100
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+men
+  rotate: false
+  xy: 2, 2
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 247, 42
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 247, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 356, 95
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 483, 103
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 290, 9
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+shoubi3
+  rotate: false
+  xy: 454, 102
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+shoubi4
+  rotate: false
+  xy: 311, 76
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 140, 7
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 417, 106
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 356, 74
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 311, 44
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+tietongjiangshi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 123, 47
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 201, 115
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+luzhang
+  rotate: false
+  xy: 2, 109
+  size: 127, 144
+  orig: 127, 144
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 131, 169
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 195, 215
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 195, 175
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 231, 150
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 123, 76
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+shoubi3
+  rotate: true
+  xy: 123, 18
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+shoubi4
+  rotate: false
+  xy: 131, 117
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 233, 113
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 144, 95
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 201, 143
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 176, 125
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+yezijianongpao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 226, 267
+  orig: 226, 267
+  offset: 0, 0
+  index: -1
+yanzi
+  rotate: false
+  xy: 271, 181
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1

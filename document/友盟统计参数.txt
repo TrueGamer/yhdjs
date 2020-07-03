@@ -1,0 +1,3 @@
+友盟KEY：5e9ec01c895cca5084000184
+文档：https://developer.umeng.com/docs
+类型是游戏

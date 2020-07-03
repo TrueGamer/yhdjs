@@ -1,0 +1,20 @@
+
+lusunsheshou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou
+  rotate: false
+  xy: 2, 45
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 2
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xiannvmogu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogubaobaofashekou
+  rotate: false
+  xy: 134, 89
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+mogubaobaotou
+  rotate: false
+  xy: 2, 2
+  size: 130, 114
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+mogubaobaoyanjing
+  rotate: false
+  xy: 134, 69
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1

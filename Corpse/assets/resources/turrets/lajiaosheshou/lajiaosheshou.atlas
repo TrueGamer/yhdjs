@@ -1,0 +1,48 @@
+
+lajiaosheshou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyan
+  rotate: false
+  xy: 57, 13
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: false
+  xy: 172, 44
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 2, 16
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 35
+  size: 87, 168
+  orig: 87, 168
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 2, 2
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 107, 24
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1

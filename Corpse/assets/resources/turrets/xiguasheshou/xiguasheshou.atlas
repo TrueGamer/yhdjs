@@ -1,0 +1,76 @@
+
+xiguasheshou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+teng
+  rotate: true
+  xy: 420, 69
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 16
+  size: 162, 108
+  orig: 162, 108
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 166, 10
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+xigua1
+  rotate: true
+  xy: 241, 33
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+xigua2
+  rotate: false
+  xy: 326, 55
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 241, 2
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 420, 8
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 353, 9
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 326, 36
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: true
+  xy: 322, 6
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1

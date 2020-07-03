@@ -1,0 +1,34 @@
+
+lengyansheshou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheshou1_eye
+  rotate: false
+  xy: 166, 92
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+sheshou1_fashekou
+  rotate: false
+  xy: 110, 44
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+sheshou1_lian
+  rotate: false
+  xy: 2, 2
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+sheshou1_yezi
+  rotate: false
+  xy: 110, 75
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1

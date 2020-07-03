@@ -1,0 +1,143 @@
+
+lieyanhulu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vx_huo_0001
+  rotate: true
+  xy: 2, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0002
+  rotate: true
+  xy: 190, 324
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0003
+  rotate: false
+  xy: 324, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0015
+  rotate: false
+  xy: 2, 190
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 190, 288
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+
+lieyanhulu2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vx_huo_0004
+  rotate: false
+  xy: 2, 190
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0005
+  rotate: true
+  xy: 2, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0006
+  rotate: true
+  xy: 190, 324
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0007
+  rotate: false
+  xy: 324, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+
+lieyanhulu3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vx_huo_0008
+  rotate: false
+  xy: 2, 190
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0009
+  rotate: true
+  xy: 2, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0010
+  rotate: true
+  xy: 190, 324
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0011
+  rotate: false
+  xy: 324, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+
+lieyanhulu4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao
+  rotate: false
+  xy: 324, 126
+  size: 151, 196
+  orig: 151, 196
+  offset: 0, 0
+  index: -1
+vx_huo_0012
+  rotate: false
+  xy: 2, 190
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0013
+  rotate: true
+  xy: 2, 2
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1
+vx_huo_0014
+  rotate: true
+  xy: 190, 324
+  size: 186, 320
+  orig: 186, 320
+  offset: 0, 0
+  index: -1

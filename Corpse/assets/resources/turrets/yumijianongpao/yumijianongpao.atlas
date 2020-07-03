@@ -1,0 +1,20 @@
+
+yumijianongpao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 57
+  size: 226, 197
+  orig: 226, 197
+  offset: 0, 0
+  index: -1
+yanzi
+  rotate: false
+  xy: 2, 2
+  size: 98, 53
+  orig: 98, 53
+  offset: 0, 0
+  index: -1

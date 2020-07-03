@@ -1,0 +1,62 @@
+
+xianrenzhangsheshou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: true
+  xy: 255, 59
+  size: 67, 114
+  orig: 67, 114
+  offset: 0, 0
+  index: -1
+ci2
+  rotate: true
+  xy: 140, 20
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 293, 28
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 22
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 10
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 371, 87
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 69, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 255, 20
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+mogubaobao.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogubaobaofashekou
+  rotate: false
+  xy: 172, 90
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+mogubaobaotou
+  rotate: false
+  xy: 2, 2
+  size: 168, 114
+  orig: 168, 114
+  offset: 0, 0
+  index: -1
+mogubaobaoyanjing
+  rotate: true
+  xy: 172, 46
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1

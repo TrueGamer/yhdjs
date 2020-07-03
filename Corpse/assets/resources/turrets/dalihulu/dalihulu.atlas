@@ -1,0 +1,27 @@
+
+dalihulu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao
+  rotate: false
+  xy: 2, 33
+  size: 133, 151
+  orig: 133, 151
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 137, 152
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 2, 2
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1

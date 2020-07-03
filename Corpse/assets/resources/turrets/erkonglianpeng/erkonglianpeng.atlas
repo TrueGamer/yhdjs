@@ -1,0 +1,27 @@
+
+erkonglianpeng.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 2, 20
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 130, 67
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 2
+  size: 77, 16
+  orig: 77, 16
+  offset: 0, 0
+  index: -1

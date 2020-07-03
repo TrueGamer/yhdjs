@@ -1,0 +1,27 @@
+
+shouzimogu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogubaobaofashekou
+  rotate: false
+  xy: 134, 87
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+mogubaobaotou
+  rotate: false
+  xy: 2, 2
+  size: 130, 114
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+mogubaobaoyanjing
+  rotate: false
+  xy: 134, 104
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1

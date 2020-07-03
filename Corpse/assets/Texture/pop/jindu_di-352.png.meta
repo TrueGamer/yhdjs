@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b77c6f61-42d6-4b07-9c66-f1079edaa855",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jindu_di-352": {
+      "ver": "1.0.4",
+      "uuid": "c062d09d-a54c-464c-914a-078dca4f30da",
+      "rawTextureUuid": "b77c6f61-42d6-4b07-9c66-f1079edaa855",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 43,
+      "rawWidth": 84,
+      "rawHeight": 43,
+      "borderTop": 18,
+      "borderBottom": 21,
+      "borderLeft": 17,
+      "borderRight": 18,
+      "subMetas": {}
+    }
+  }
+}

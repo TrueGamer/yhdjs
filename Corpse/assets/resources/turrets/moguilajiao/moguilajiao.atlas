@@ -1,0 +1,62 @@
+
+moguilajiao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyan
+  rotate: false
+  xy: 78, 5
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: false
+  xy: 370, 132
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+huoyan02
+  rotate: false
+  xy: 2, 33
+  size: 212, 204
+  orig: 212, 204
+  offset: 0, 0
+  index: -1
+jing
+  rotate: false
+  xy: 370, 79
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 2, 2
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 216, 44
+  size: 152, 193
+  orig: 152, 193
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: true
+  xy: 492, 185
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 419, 96
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1

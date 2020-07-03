@@ -1,0 +1,82 @@
+2020/04/29 19:16:40 [error] 12652#4120: *1 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\extra\DBOperator.php(9): include('E:\\SVN\\jiangshi...')
+#2 E:\SVN\jiangshihecheng\template\public\api\login.php(43): DB_operator_initConnRedis()
+#3 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/29 19:17:25 [error] 12652#4120: *1 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$id in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1539
+PHP Warning:  array_push() expects parameter 1 to be array, null given in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 370" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/freeMoney.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/29 19:19:44 [error] 12652#4120: *1 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$id in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1539
+PHP Warning:  array_push() expects parameter 1 to be array, null given in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 370" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/freeMoney.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/29 19:21:53 [error] 12652#4120: *15 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$id in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1540
+PHP Warning:  array_push() expects parameter 1 to be array, null given in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 370" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/freeMoney.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/29 19:28:53 [error] 12652#4120: *18 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$id in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1540
+PHP Warning:  array_push() expects parameter 1 to be array, null given in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 370" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/freeMoney.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/30 17:32:05 [error] 8356#4592: *5 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected ';' in E:\SVN\jiangshihecheng\template\comm\comm.php on line 14" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/30 17:42:57 [error] 8356#4592: *15 FastCGI sent in stderr: "PHP Warning:  log4php: Configuration failed. File not found at [E:\SVN\jiangshihecheng\template\commlog_config.xml]. Using default configuration. in E:\SVN\jiangshihecheng\template\comm\log4php\configurators\LoggerConfiguratorDefault.php on line 475" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/30 20:16:51 [error] 15556#15456: *9 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '.' in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 958" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/30 20:16:53 [error] 15556#15456: *9 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '.' in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 958" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/04/30 20:16:56 [error] 15556#15456: *9 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '.' in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 958" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/11 09:55:38 [error] 23540#15384: *1 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\extra\DBOperator.php(9): include('E:\\SVN\\jiangshi...')
+#2 E:\SVN\jiangshihecheng\template\public\api\login.php(46): DB_operator_initConnRedis()
+#3 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/11 09:55:51 [error] 23540#15384: *1 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\extra\DBOperator.php(9): include('E:\\SVN\\jiangshi...')
+#2 E:\SVN\jiangshihecheng\template\public\api\login.php(46): DB_operator_initConnRedis()
+#3 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/15 11:13:59 [error] 6300#15376: *52 FastCGI sent in stderr: "PHP Notice:  Undefined variable: record in E:\SVN\jiangshihecheng\template\public\gm\gm.php on line 64
+PHP Warning:  Invalid argument supplied for foreach() in E:\SVN\jiangshihecheng\template\public\gm\gm.php on line 64" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "GET /gm/gm.php?uid=100100000000013&type=4&num=8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/16 15:57:52 [error] 15332#16220: *1 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\extra\DBOperator.php(9): include('E:\\SVN\\jiangshi...')
+#2 E:\SVN\jiangshihecheng\template\public\api\login.php(46): DB_operator_initConnRedis()
+#3 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/16 15:58:00 [error] 15332#16220: *1 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\extra\DBOperator.php(9): include('E:\\SVN\\jiangshi...')
+#2 E:\SVN\jiangshihecheng\template\public\api\login.php(46): DB_operator_initConnRedis()
+#3 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/16 15:58:54 [error] 15332#16220: *1 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\extra\DBOperator.php(9): include('E:\\SVN\\jiangshi...')
+#2 E:\SVN\jiangshihecheng\template\public\api\login.php(46): DB_operator_initConnRedis()
+#3 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 11:27:58 [error] 13020#8960: *6 FastCGI sent in stderr: "PHP Fatal error:  Uncaught exception 'RedisException' with message 'Redis server went away' in E:\SVN\jiangshihecheng\template\extra\redisconn.php:15
+Stack trace:
+#0 E:\SVN\jiangshihecheng\template\extra\redisconn.php(15): Redis->auth('')
+#1 E:\SVN\jiangshihecheng\template\public\service\reportAd.php(19): include('E:\\SVN\\jiangshi...')
+#2 {main}
+  thrown in E:\SVN\jiangshihecheng\template\extra\redisconn.php on line 15" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "GET /service/reportAd.php?handlerId=1&time=5 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 16:16:20 [error] 13020#8960: *21 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$0 in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1598
+PHP Notice:  Trying to get property of non-object in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1599" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/getMultiHongbao.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 16:16:31 [error] 13020#8960: *21 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$0 in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1598
+PHP Notice:  Trying to get property of non-object in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1599" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/getMultiHongbao.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 16:16:32 [error] 13020#8960: *21 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$0 in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1598
+PHP Notice:  Trying to get property of non-object in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1599" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/getMultiHongbao.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 16:16:50 [error] 13020#8960: *21 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$0 in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1598
+PHP Notice:  Trying to get property of non-object in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1599" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/getMultiHongbao.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 16:17:33 [error] 13020#8960: *21 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$0 in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1598
+PHP Notice:  Trying to get property of non-object in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1599" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/getMultiHongbao.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 16:26:38 [error] 13020#8960: *44 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$lastUnlockMaxPet in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1587" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/getMultiHongbao.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 19:09:30 [error] 13020#8960: *57 FastCGI sent in stderr: "PHP Notice:  Undefined variable: hb in E:\SVN\jiangshihecheng\template\public\api\petUpgrade.php on line 129" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/petUpgrade.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 19:09:49 [error] 13020#8960: *57 FastCGI sent in stderr: "PHP Notice:  Undefined variable: hb in E:\SVN\jiangshihecheng\template\public\api\petUpgrade.php on line 129" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/petUpgrade.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 19:10:02 [error] 13020#8960: *57 FastCGI sent in stderr: "PHP Notice:  Undefined variable: hb in E:\SVN\jiangshihecheng\template\public\api\petUpgrade.php on line 129" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/petUpgrade.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 19:20:58 [error] 13020#8960: *87 FastCGI sent in stderr: "PHP Notice:  Undefined property: stdClass::$lastUnlockMaxPet in E:\SVN\jiangshihecheng\template\manager\petManager.php on line 137" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/petUpgradeReward.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 19:26:52 [error] 13020#8960: *101 FastCGI sent in stderr: "PHP Warning:  Missing argument 2 for roleManager_upLevelHbReward(), called in E:\SVN\jiangshihecheng\template\public\api\upAdReward.php on line 92 and defined in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1586
+PHP Warning:  array_push() expects parameter 1 to be array, null given in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 374" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/upAdReward.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"
+2020/05/20 19:27:08 [error] 13020#8960: *101 FastCGI sent in stderr: "PHP Warning:  Missing argument 2 for roleManager_upLevelHbReward(), called in E:\SVN\jiangshihecheng\template\public\api\upAdReward.php on line 92 and defined in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 1586
+PHP Warning:  array_push() expects parameter 1 to be array, null given in E:\SVN\jiangshihecheng\template\manager\roleManager.php on line 374" while reading response header from upstream, client: 192.168.16.188, server: localhost, request: "POST /api/upAdReward.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9099", host: "192.168.16.188:8888"

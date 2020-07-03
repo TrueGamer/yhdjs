@@ -1,0 +1,20 @@
+
+yezidapao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 203, 240
+  orig: 203, 240
+  offset: 0, 0
+  index: -1
+yanzi
+  rotate: true
+  xy: 207, 157
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1

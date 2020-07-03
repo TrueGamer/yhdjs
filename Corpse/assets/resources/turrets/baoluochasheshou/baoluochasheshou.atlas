@@ -1,0 +1,55 @@
+
+baoluochasheshou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: false
+  xy: 143, 77
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 2
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 58
+  size: 139, 180
+  orig: 139, 180
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 280, 129
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 280, 152
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 464, 209
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 366, 167
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1

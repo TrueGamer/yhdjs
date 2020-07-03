@@ -1,0 +1,76 @@
+
+shuangqiangsheshou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheshou1_touying
+  rotate: false
+  xy: 190, 49
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+sheshou2_eye
+  rotate: false
+  xy: 190, 27
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+sheshou2_fashekou
+  rotate: false
+  xy: 2, 2
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+sheshou2_lian
+  rotate: false
+  xy: 97, 27
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+sheshou2_yezi1
+  rotate: false
+  xy: 345, 79
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+sheshou3_eye
+  rotate: false
+  xy: 46, 3
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+sheshou3_fashekou
+  rotate: false
+  xy: 273, 50
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+sheshou3_lian
+  rotate: false
+  xy: 2, 26
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+sheshou3_yezi1
+  rotate: false
+  xy: 318, 78
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+shuzhi1
+  rotate: false
+  xy: 273, 74
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

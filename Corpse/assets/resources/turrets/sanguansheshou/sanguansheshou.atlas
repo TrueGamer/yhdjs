@@ -1,0 +1,97 @@
+
+sanguansheshou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheshou1_eye
+  rotate: false
+  xy: 404, 79
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+sheshou1_fashekou
+  rotate: false
+  xy: 404, 97
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+sheshou1_lian
+  rotate: false
+  xy: 190, 31
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+sheshou1_touying
+  rotate: false
+  xy: 270, 51
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+sheshou1_yezi
+  rotate: false
+  xy: 378, 78
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+sheshou2_eye
+  rotate: false
+  xy: 446, 97
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+sheshou2_fashekou
+  rotate: false
+  xy: 2, 2
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+sheshou2_lian
+  rotate: false
+  xy: 97, 27
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+sheshou2_yezi1
+  rotate: true
+  xy: 351, 51
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+sheshou3_eye
+  rotate: false
+  xy: 270, 28
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+sheshou3_fashekou
+  rotate: false
+  xy: 45, 3
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+sheshou3_lian
+  rotate: false
+  xy: 2, 26
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+sheshou3_yezi1
+  rotate: false
+  xy: 351, 78
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1

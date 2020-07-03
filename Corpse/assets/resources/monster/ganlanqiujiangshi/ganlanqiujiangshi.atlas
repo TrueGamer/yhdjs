@@ -1,0 +1,104 @@
+
+ganlanqiujiangshi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 407, 100
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 375, 100
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 109, 42
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 109, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 152, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 436, 103
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 173, 81
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+shoubi3
+  rotate: false
+  xy: 342, 102
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+shoubi4
+  rotate: true
+  xy: 301, 104
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 7
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 257, 103
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 461, 106
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 173, 49
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: true
+  xy: 209, 99
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1

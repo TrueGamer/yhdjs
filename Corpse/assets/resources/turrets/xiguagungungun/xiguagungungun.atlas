@@ -1,0 +1,76 @@
+
+xiguagungungun.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+teng
+  rotate: true
+  xy: 285, 163
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 138
+  size: 179, 116
+  orig: 179, 116
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 2
+  size: 134, 84
+  orig: 134, 84
+  offset: 0, 0
+  index: -1
+xigua1
+  rotate: false
+  xy: 183, 167
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+xigua2
+  rotate: true
+  xy: 88, 34
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 285, 220
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 439, 213
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 372, 210
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 183, 148
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: false
+  xy: 88, 12
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
