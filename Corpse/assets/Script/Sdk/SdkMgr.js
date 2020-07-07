@@ -226,7 +226,7 @@ var SDKMgr = cc.Class({
 
 
          loadExpressAd(){
-            AppLog.log("展示信息流:loadExpressAd")
+            AppLog.log("展示信息流111:loadExpressAd")
             if (cc.sys.platform  == cc.sys.ANDROID){    
                 jsb.reflection.callStaticMethod("com.lz.yhdjs.ttapi.TTGameExpressAd", "loadExpressAd", "()V",);
                 AppLog.log("展示信息流:") 
@@ -240,7 +240,28 @@ var SDKMgr = cc.Class({
                 jsb.reflection.callStaticMethod("com.lz.yhdjs.ttapi.TTGameExpressAd", "onDestroyExpress", "()V",);
                 AppLog.log("关闭信息流:" ) 
             }
-         } 
+         },
+
+         loadSplashAd(){
+            AppLog.log("展示信息流:loadSplashAd")
+            if (cc.sys.platform  == cc.sys.ANDROID){
+                jsb.reflection.callStaticMethod("com.lz.yhdjs.ttapi.TTGameExpressAd", "loadSplashAd", "()V",);
+                AppLog.log("展示开屏:")
+            }
+            else{
+                this.onSplashEnd()
+            }
+
+         },
+
+         /**
+         * 安卓激励视频完成奖励通知
+         */
+        onSplashEnd(){
+            AppLog.log("onSplashEnd")
+            //结束开屏
+            whevent.event(_G.EVENT.SPLASH_END);
+        },
     } 
 });
 

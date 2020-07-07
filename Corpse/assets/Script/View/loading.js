@@ -15,7 +15,8 @@ cc.Class({
     initListener(){
         whevent.onOnce(_G.MESSAGE.LOGIN,this.onLoginResp,this); 
         whevent.on(_G.MESSAGE.SDK_GET_UID,this.onGetUIDByOpenId,this);
-        whevent.on(_G.EVENT.SHOWLOGIN,this.showLoginBtn,this); 
+        whevent.on(_G.EVENT.SHOWLOGIN,this.showLoginBtn,this);
+        whevent.on(_G.EVENT.SPLASH_END,this.onSplashEnd,this);
     },
 
     onLoad() {  
@@ -39,15 +40,24 @@ cc.Class({
     }, 
     //开始检查
     beginStart(){ 
+        this.showSplashAd();
+    },
+
+   //开屏广告
+    showSplashAd(){
+        SDKMgr.loadSplashAd();
+    },
+       //开屏广告
+    onSplashEnd(){
         let isProto = _G.CfgMgr.getItem("isProto")|| false;
-        if(!isProto){ 
+        if(!isProto){
             let call = this.onReadeyLogin.bind(this);
             PopMgr.createPop("popProto",{call:call})
         }else{
             this.onReadeyLogin();
-        } 
+        }
     },
-  
+
     onReadeyLogin(){ 
         //退出账号后要阻止自动登录
         if(_G.AppDef.IS_EXIT_LOGIN){
@@ -211,7 +221,8 @@ cc.Class({
 
     onDestroy(){
         whevent.off(_G.MESSAGE.SDK_GET_UID,this.onGetUIDByOpenId,this);
-        whevent.off(_G.EVENT.SHOWLOGIN,this.showLoginBtn,this); 
+        whevent.off(_G.EVENT.SHOWLOGIN,this.showLoginBtn,this);
+        whevent.off(_G.EVENT.SPLASH_END,this.onSplashEnd,this);
     }
 
  

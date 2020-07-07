@@ -24,6 +24,7 @@ var EVENT                   = {};
     EVENT.REMOVELISTENER    = Tools.getGID();
     EVENT.ERR_MEGER         = Tools.getGID();
     EVENT.GUIDE_CONTINUE    = Tools.getGID();
+    EVENT.SPLASH_END         = Tools.getGID();
 if (typeof module !== 'undefined') {
 	module.exports = EVENT;
 }
